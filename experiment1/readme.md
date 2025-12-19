@@ -63,4 +63,5 @@ public class QuadraticRoots {
 }
 ```
 ## OUTPUT:
+![ output of primitive](quad.png)
 
