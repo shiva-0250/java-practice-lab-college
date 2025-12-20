@@ -1,4 +1,4 @@
-# Experieent 1
+# Experiment 1
 ## Title : Diplay Primitive Datatypes values
 ```java
 class DefaultValues {
