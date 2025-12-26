@@ -1,9 +1,6 @@
 #experiment2
 ##Title:2a.impliment class mechanism
-##source code:
-#Experiment2
-##title:2a.implement class mechanism
-##source code:
+##sourcecode
 class Square {
   int side;
   int area_of_Square() {
