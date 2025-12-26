@@ -1,7 +1,4 @@
-# experiment2
-##2a
-##source code:
-#Experiment2
+# experiment2 
 ##title:2a.implement class mechanism
 ##source code:
 class Square {
